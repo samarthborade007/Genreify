@@ -1,0 +1,9 @@
+1) https://www.researchgate.net/publication/349364033_Anomalous_Sound_Detection_with_Machine_Learning_A_Systematic_Review
+
+2)https://arxiv.org/ftp/arxiv/papers/1810/1810.09078.pdf
+
+3)https://ieeexplore.ieee.org/document/9996362
+
+4)https://www.researchgate.net/publication/324218667_Music_Genre_Classification_using_Machine_Learning_Techniques
+
+5)https://www.researchgate.net/publication/362315579_JUXTAPOSITION_BETWEEN_TWO_CONVOLUTIONAL_NEURAL_NETWORK_FOR_MUSIC_GENRE_CLASSIFICATION
